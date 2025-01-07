@@ -1,0 +1,1 @@
+This repository showcases a subtle ZeroDivisionError in Python.  The error only occurs when the input 'a' is zero. Standard practices of input validation would normally prevent this error; however, this example highlights how this error might be missed. The solution demonstrates a more robust approach to prevent unexpected behavior.
